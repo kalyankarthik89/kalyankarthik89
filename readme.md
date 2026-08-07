@@ -1,144 +1,166 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Science%20Student;Machine%20Learning%20Explorer;Building%20AI%20with%20Data&center=true&width=700&height=50&font=Fira%20Code&color=00BFFF&size=28" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kalyankarthik89/kalyankarthik89/main/spiderman.gif" width="1000"/>
-</p>
-
----
-
-# 👋 Hi, I'm Kalyan Karthik
-
-<p align="center">
-🎓 Final Year Data Science Student <br>
-🤖 Passionate about AI, Machine Learning & Data Science <br>
-🚀 Currently learning Salesforce Development <br>
-🏆 Salesforce Agentforce Specialist <br>
-📈 100,000+ Trailhead Points <br>
-🎯 Preparing for Salesforce Platform Developer I Certification
-</p>
-
----
-
-## 💡 About Me
+<!--
+  GitHub Profile README for @kalyankarthik89
+  Replace the placeholders marked CUSTOMIZE before publishing.
+  Add spiderman.gif to the root of this profile repository (main branch).
+-->
 
 <div align="center">
 
-I'm a passionate Data Science student who enjoys building intelligent systems using Machine Learning and Artificial Intelligence.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Kalyan+Karthik+%F0%9F%91%8B;Final-Year+Data+Science+Student;Aspiring+Salesforce+Software+Developer;Building+useful+products+with+data+%26+AI" alt="Typing introduction" />
 
-I love solving real-world problems with data, creating automation, and continuously learning new technologies.
+  <br />
+  <br />
 
-Currently my main focus is becoming a Salesforce Software Development Engineer while continuing to improve my AI and ML skills.
+  <!-- CUSTOMIZE: upload spiderman.gif to this repository's root folder. -->
+  <img src="https://raw.githubusercontent.com/kalyankarthik89/kalyankarthik89/main/spiderman.gif" width="100%" alt="Spider-Man banner" />
+
+  <br />
+  <br />
+
+  <a href="https://komarev.com/ghpvc/?username=kalyankarthik89&color=0ea5e9&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=kalyankarthik89&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
+  <a href="https://github.com/kalyankarthik89?tab=followers">
+    <img src="https://img.shields.io/github/followers/kalyankarthik89?style=for-the-badge&color=0ea5e9&labelColor=0f172a&logo=github" alt="GitHub followers" />
+  </a>
 
 </div>
 
----
+## `> whoami`
 
-## 🚀 Skills
+```yaml
+name: Kalyan Karthik
+role: Final-Year Data Science Student
+focus: Salesforce development, AI, data science, and machine learning
+currently: Preparing for Salesforce Software Development Intern roles — 2027
+superpower: Turning ideas and data into practical, human-centered solutions
+```
 
+I am a final-year Data Science student enthusiastic about building reliable software and intelligent experiences. I am growing toward a career in **Salesforce development**, where I can combine structured problem-solving, data, automation, and thoughtful user experiences to create products that matter.
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Salesforce-Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Developer" />
+  <img src="https://img.shields.io/badge/Data%20Science-Student-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Data Science Student" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to internships" />
+
+</div>
+
+## ☁️ Salesforce journey
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏆 Agentforce Specialist</h3>
+      <p>Exploring how trusted AI agents and Salesforce workflows can improve customer and employee experiences.</p>
+    </td>
+    <td width="50%">
+      <h3>⭐ 100K+ Trailhead points</h3>
+      <p>Learning continuously through hands-on Salesforce modules, projects, and superbadges.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>☁️ Platform Developer I</h3>
+      <p><strong>Preparing</strong> — deepening my Apex, SOQL, Lightning, and platform fundamentals.</p>
+    </td>
+    <td width="50%">
+      <h3>🎯 2027 goal</h3>
+      <p>Contribute as a Salesforce Software Development Intern and keep shipping useful solutions.</p>
+    </td>
+  </tr>
+</table>
+
+<!-- CUSTOMIZE: replace the Trailhead URL below with your public Trailblazer profile. -->
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+  <a href="https://www.salesforce.com/trailblazer/">
+    <img src="https://img.shields.io/badge/View%20my%20Trailblazer%20Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailblazer Profile" />
+  </a>
 </p>
 
----
+## 🛠️ Tech stack
 
-## 🌱 Currently Learning
+<div align="center">
 
-<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, SQL" />
+  <br /><br />
+  <!-- Tools and platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postgres,mysql&theme=dark" alt="Git, GitHub, VS Code, Linux, Figma, PostgreSQL, MySQL" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+  <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="SOQL" />
+  <img src="https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Lightning Web Components" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=38bdf8" alt="Machine Learning" />
 
-TensorFlow • PyTorch • Deep Learning • NLP • Salesforce • Agentforce • Model Deployment
+</div>
 
-</p>
+## 📊 GitHub at a glance
 
----
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kalyankarthik89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="Kalyan's GitHub statistics" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyankarthik89&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=C9D1D9" alt="Kalyan's GitHub streak" />
+</div>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankarthik89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Most used languages" />
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kalyankarthik89&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalyankarthik89&show_icons=true&theme=tokyonight"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyankarthik89&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankarthik89&layout=compact&theme=tokyonight"/>
+## 🚀 Featured projects
 
-</p>
+<!-- CUSTOMIZE: Replace the three placeholders below with real repository names and links. -->
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>☁️ Your Salesforce app</strong><br />An Apex, LWC, or Flow-powered app that solves a real workflow problem.</td>
+    <td width="33%" align="center"><strong>📈 Your data project</strong><br />An end-to-end analysis or model with a clear story and reproducible results.</td>
+    <td width="33%" align="center"><strong>🤖 Your AI experiment</strong><br />A thoughtful project exploring agents, automation, or applied ML.</td>
+  </tr>
+</table>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kalyankarthik89&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-
-🏆 Salesforce Agentforce Specialist
-
-⭐ 100,000+ Trailhead Points
-
-🎯 Salesforce Platform Developer I (Preparing)
-
-🤖 Passionate about Artificial Intelligence
-
-📊 Data Science Enthusiast
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:kalyankarthik875@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<!-- Example pinned-card snippet (uncomment after replacing YOUR-REPOSITORY-NAME):
+<a href="https://github.com/kalyankarthik89/YOUR-REPOSITORY-NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyankarthik89&repo=YOUR-REPOSITORY-NAME&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project card" />
 </a>
+-->
 
-<a href="https://www.linkedin.com/in/kalyandukka">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 🎓 Certifications & learning
 
-<a href="https://github.com/kalyankarthik89">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<!-- CUSTOMIZE: Add certification badges or links here as you earn them. -->
 
-</p>
+- Salesforce Agentforce Specialist
+- Salesforce Platform Developer I — preparing
+- Trailhead Ranger-level learning — 100K+ points
+- Final-year B.Tech / degree program in Data Science — customize your exact degree and institution
 
----
+## 🤝 Let’s connect
 
-<p align="center">
+<!-- CUSTOMIZE: replace each # with your public profile or preferred contact link. -->
+<div align="center">
+  <a href="https://github.com/kalyankarthik89">
+    <img src="https://img.shields.io/badge/GitHub-kalyankarthik89-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Add%20your%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Let%27s%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" />
+  </a>
+</div>
 
-### 💻 "Code. Learn. Build. Repeat."
+<br />
 
-</p>
+<div align="center">
 
-<p align="center">
+  <i>“With great code comes great responsibility.”</i> 🕷️
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer" width="100%" alt="Blue wave footer" />
 
-<img src="https://komarev.com/ghpvc/?username=kalyankarthik89&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+</div>
