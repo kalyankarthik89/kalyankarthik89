@@ -98,16 +98,8 @@ I am a final-year Data Science student enthusiastic about building reliable soft
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kalyankarthik89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="Kalyan's GitHub statistics" />
+  <!-- The cards previously here were removed because their external image hosts can fail on GitHub's preview. -->
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyankarthik89&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=C9D1D9" alt="Kalyan's GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankarthik89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalyankarthik89&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
 <div align="center">
