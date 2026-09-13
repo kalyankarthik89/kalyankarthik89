@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=190&section=header&text=Kalyan%20Karthik&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Data%20Science%20Student%20%7C%20Aspiring%20Salesforce%20Developer&descAlignY=55&descSize=17" alt="Wave header for Kalyan Karthik" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=190&section=header&text=Kalyan%20Karthik&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Data%20Science%20Student%20%7C%20Aspiring%20Salesforce%20Developer&descAlignY=55&descSize=17" alt="Wave header for Kalyan Dukka" />
 
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1100&color=38BDF8&center=true&vCenter=true&width=820&lines=Hi%2C+I%27m+Kalyan+Karthik+%F0%9F%91%8B;Final-year+Data+Science+Student;Aspiring+Salesforce+Software+Developer;Building+useful+products+with+data+%26+AI">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1100&color=38BDF8&center=true&vCenter=true&width=820&lines=Hi%2C+I%27m+Kalyan+Karthik+%F0%9F%91%8B;Final-year+Data+Science+Student;Aspiring+Salesforce+Software+Developer;Building+useful+products+with+data+%26+AI" alt="Animated introduction" />
