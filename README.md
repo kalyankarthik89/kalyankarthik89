@@ -2,7 +2,6 @@
   GitHub Profile README for @kalyankarthik89
   Repository name must exactly match your GitHub username: kalyankarthik89
 
-  CUSTOMIZE: Replace PROJECT_* and CERTIFICATION_* placeholders before publishing.
   CUSTOMIZE: Add spiderman.gif to the root of this repository on the main branch.
 -->
 
@@ -72,60 +71,11 @@
   <img src="https://img.shields.io/badge/Data%20Science-0F172A?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Data Science" />
 </div>
 
-## 📊 GitHub at a Glance
+## 🔥 Contribution Streak
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kalyankarthik89&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kalyan's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankarthik89&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Kalyan's most-used languages" />
-  <br />
   <img src="https://streak-stats.demolab.com?user=kalyankarthik89&theme=tokyonight&hide_border=true" alt="Kalyan's GitHub contribution streak" />
 </div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalyankarthik89&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyankarthik89&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Kalyan's GitHub activity graph" />
-</div>
-
-## ✨ Featured Projects
-
-<!--
-  CUSTOMIZE: Replace the four placeholder repository names in BOTH the link and image URLs below.
-  Example: PROJECT_1 becomes customer-churn-prediction.
-  Pinned cards display public repositories only.
--->
-
-<div align="center">
-  <a href="https://github.com/kalyankarthik89/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyankarthik89&repo=PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured project 1" />
-  </a>
-  <a href="https://github.com/kalyankarthik89/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyankarthik89&repo=PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured project 2" />
-  </a>
-  <br />
-  <a href="https://github.com/kalyankarthik89/PROJECT_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyankarthik89&repo=PROJECT_3&theme=tokyonight&hide_border=true" alt="Featured project 3" />
-  </a>
-  <a href="https://github.com/kalyankarthik89/PROJECT_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalyankarthik89&repo=PROJECT_4&theme=tokyonight&hide_border=true" alt="Featured project 4" />
-  </a>
-</div>
-
-## 🎓 Certifications & Learning
-
-<!-- CUSTOMIZE: Replace the placeholders with your certificate names and verification links. -->
-
-| Credential | Issuer | Status |
-| :-- | :-- | :-- |
-| `CERTIFICATION_1` | `ISSUING_ORGANIZATION` | [View credential](CERTIFICATE_URL_1) |
-| `CERTIFICATION_2` | `ISSUING_ORGANIZATION` | [View credential](CERTIFICATE_URL_2) |
-| `CERTIFICATION_3` | `ISSUING_ORGANIZATION` | [View credential](CERTIFICATE_URL_3) |
 
 ## 🤝 Let’s Connect
 
