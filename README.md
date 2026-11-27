@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:4F46E5&height=200&section=header&text=KALYAN%20KARTHIK&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Salesforce%20Developer%20%7C%20Cloud%20%26%20AI&descAlignY=60&descSize=17" alt="Kalyan Karthik Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:4F46E5&height=200&section=header&text=KALYAN%20KARTHIK&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Salesforce%20Developer%20%7C%20Cloud%20and%20AI&descAlignY=60&descSize=17" alt="Kalyan Karthik Banner" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Salesforce-Platform%20Developer%20I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce PD1" />
-  <img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white" alt="Agentforce Specialist" />
-  <img src="https://img.shields.io/badge/Trailhead-Double%20Star%20Ranger-032D60?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead Double Star Ranger" />
+  <img src="https://img.shields.io/badge/Salesforce-Platform%20Developer%20I-00A1E0?style=for-the-badge" alt="Salesforce PD1" />
+  <img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-1B96FF?style=for-the-badge" alt="Agentforce Specialist" />
+  <img src="https://img.shields.io/badge/Trailhead-Double%20Star%20Ranger-032D60?style=for-the-badge" alt="Trailhead Double Star Ranger" />
   <img src="https://komarev.com/ghpvc/?username=kalyankarthik89&color=4F46E5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
@@ -22,15 +22,15 @@ Final-year **B.Tech CSE (Data Science)** student bridging **Business Analytics, 
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h4>☁️ Salesforce & Cloud</h4>
+      <h4>☁️ Salesforce &amp; Cloud</h4>
       <p>Building CRM apps, AI support agents, and automation with Apex, LWC, Flows, SOQL, and Agentforce.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h4>📊 Data & Business Analytics</h4>
+      <h4>📊 Data &amp; Business Analytics</h4>
       <p>Translating raw data into executive insights using SQL, Python, A/B testing, unit economics, and Tableau.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h4>🤖 Machine Learning & AI</h4>
+      <h4>🤖 Machine Learning &amp; AI</h4>
       <p>Developing deep learning, NLP, and explainable AI pipelines with PyTorch, Scikit-learn, and Grad-CAM.</p>
     </td>
   </tr>
@@ -44,11 +44,12 @@ Final-year **B.Tech CSE (Data Science)** student bridging **Business Analytics, 
 
 **Salesforce & Cloud**
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white)
-![Agentforce](https://img.shields.io/badge/Agentforce%20%26%20Prompt%20Builder-4F46E5?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL%20%2F%20Flows-0070D2?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge)
+![Apex](https://img.shields.io/badge/Apex-032D60?style=for-the-badge)
+![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-1B96FF?style=for-the-badge)
+![Agentforce](https://img.shields.io/badge/Agentforce-4F46E5?style=for-the-badge)
+![Prompt Builder](https://img.shields.io/badge/Prompt%20Builder-6366F1?style=for-the-badge)
+![SOQL](https://img.shields.io/badge/SOQL%20%2F%20Flows-0070D2?style=for-the-badge)
 
 <br />
 
@@ -62,7 +63,7 @@ Final-year **B.Tech CSE (Data Science)** student bridging **Business Analytics, 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 
 </div>
 
