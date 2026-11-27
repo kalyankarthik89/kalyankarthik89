@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:4F46E5&height=200&section=header&text=KALYAN%20KARTHIK&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Salesforce%20Developer%20%7C%20Cloud%20and%20AI&descAlignY=60&descSize=17" alt="Kalyan Karthik Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:4F46E5&height=200&section=header&text=KALYAN%20REDDY&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Salesforce%20Developer%20%7C%20Cloud%20and%20AI&descAlignY=60&descSize=17" alt="Kalyan Karthik Banner" />
 </div>
 
 <div align="center">
