@@ -1,100 +1,117 @@
-<!--
-  GitHub Profile README for @kalyankarthik89
-  Repository name must exactly match your GitHub username: kalyankarthik89
-
-  CUSTOMIZE: Add spiderman.gif to the root of this repository on the main branch.
--->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:4F46E5&height=200&section=header&text=KALYAN%20KARTHIK&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Salesforce%20Developer%20%7C%20Cloud%20%26%20AI&descAlignY=60&descSize=17" alt="Kalyan Karthik Banner" />
+</div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=190&section=header&text=Kalyan%20Karthik&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Data%20Science%20Student%20%7C%20Aspiring%20Salesforce%20Developer&descAlignY=55&descSize=17" alt="Wave header for Kalyan Dukka" />
-
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1100&color=38BDF8&center=true&vCenter=true&width=820&lines=Hi%2C+I%27m+Kalyan+Karthik+%F0%9F%91%8B;Final-year+Data+Science+Student;Aspiring+Salesforce+Software+Developer;Building+useful+products+with+data+%26+AI">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1100&color=38BDF8&center=true&vCenter=true&width=820&lines=Hi%2C+I%27m+Kalyan+Karthik+%F0%9F%91%8B;Final-year+Data+Science+Student;Aspiring+Salesforce+Software+Developer;Building+useful+products+with+data+%26+AI" alt="Animated introduction" />
-  </a>
-
-  <br />
-
-  <a href="https://komarev.com/ghpvc/?username=kalyankarthik89&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS">
-    <img src="https://komarev.com/ghpvc/?username=kalyankarthik89&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="https://github.com/kalyankarthik89?tab=followers">
-    <img src="https://img.shields.io/github/followers/kalyankarthik89?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/kalyankarthik89">
-    <img src="https://img.shields.io/github/stars/kalyankarthik89?affiliations=OWNER&style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="GitHub stars" />
-  </a>
+  <img src="https://img.shields.io/badge/Salesforce-Platform%20Developer%20I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce PD1" />
+  <img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white" alt="Agentforce Specialist" />
+  <img src="https://img.shields.io/badge/Trailhead-Double%20Star%20Ranger-032D60?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead Double Star Ranger" />
+  <img src="https://komarev.com/ghpvc/?username=kalyankarthik89&color=4F46E5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br />
 
-<div align="center">
-  <!-- Upload spiderman.gif to the repository root to show this banner. -->
-  <img src="https://raw.githubusercontent.com/kalyankarthik89/kalyankarthik89/main/spiderman.gif" width="760" alt="Spider-Man banner" />
-</div>
+### 👋 Hey there, I'm Kalyan!
 
-## 👨‍💻 About Me
+Final-year **B.Tech CSE (Data Science)** student bridging **Business Analytics, Machine Learning, and Salesforce Cloud solutions**. I build data-driven decision tools, AI agents, and scalable CRM applications using Apex, Lightning Web Components, Python, and SQL.
 
-- 🎓 Final-year Data Science student, turning data into clear and useful solutions.
-- ☁️ Building toward a career as a Salesforce Software Developer.
-- 🤖 Interested in AI, machine learning, analytics, and practical automation.
-- 🌱 Currently growing through hands-on projects, Trailhead learning, and open-source exploration.
-- 💬 Ask me about Python, data science, Salesforce, or learning in public.
+---
 
-## ☁️ My Salesforce Journey
+### 🎯 Core Focus Areas
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h3>🌱 Learn</h3>
-      <p>Exploring the Salesforce ecosystem through Trailhead, admin fundamentals, and platform basics.</p>
+    <td width="33%" align="center" valign="top">
+      <h4>☁️ Salesforce & Cloud</h4>
+      <p>Building CRM apps, AI support agents, and automation with Apex, LWC, Flows, SOQL, and Agentforce.</p>
     </td>
-    <td width="33%" align="center">
-      <h3>🛠️ Build</h3>
-      <p>Creating practical projects with flows, data models, Apex, Lightning Web Components, and integrations.</p>
+    <td width="33%" align="center" valign="top">
+      <h4>📊 Data & Business Analytics</h4>
+      <p>Translating raw data into executive insights using SQL, Python, A/B testing, unit economics, and Tableau.</p>
     </td>
-    <td width="33%" align="center">
-      <h3>🚀 Grow</h3>
-      <p>Working toward certifications and contributing solutions that make teams more effective.</p>
+    <td width="33%" align="center" valign="top">
+      <h4>🤖 Machine Learning & AI</h4>
+      <p>Developing deep learning, NLP, and explainable AI pipelines with PyTorch, Scikit-learn, and Grad-CAM.</p>
     </td>
   </tr>
 </table>
 
-## 🧰 Tech Stack
+---
+
+### 💻 Tech Stack
 
 <div align="center">
-  <!-- Add or remove icons below as your stack changes. Icon source: devicon. -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode,linux&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, React, Node.js, MySQL, MongoDB, Git, GitHub, VS Code, and Linux" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
-  <img src="https://img.shields.io/badge/Lightning%20Web%20Components-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" alt="Lightning Web Components" />
-  <img src="https://img.shields.io/badge/Data%20Science-0F172A?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Data Science" />
+
+**Salesforce & Cloud**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce%20%26%20Prompt%20Builder-4F46E5?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL%20%2F%20Flows-0070D2?style=for-the-badge&logo=salesforce&logoColor=white)
+
+<br />
+
+**Languages, Frameworks & Data Tools**
+
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,react,nodejs,flask,fastapi,postgres,mongodb,pytorch,git,github,vscode,linux" alt="Tech Stack Icons" />
+
+<br />
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 </div>
 
-## 🔥 Contribution Streak
+---
+
+### 🚀 Featured Projects
+
+| Project | Domain | Stack |
+| :--- | :--- | :--- |
+| [**Supply Chain & Unit Economics**](https://github.com/kalyankarthik89/supply-chain-unit-economics) | Logistics SLA, freight cost & margin analytics | Python, SQL, Tableau |
+| [**Product Funnel & A/B Testing**](https://github.com/kalyankarthik89/product-funnel-ab-testing) | Conversion funnel analysis, z-tests & bootstrap CIs | Python, SQL, Statistics |
+| [**Sales Analytics Dashboard**](https://github.com/kalyankarthik89/sales-analytics-dashboard) | End-to-end revenue & business performance tracking | Python, BI Analytics |
+| [**Lung Cancer Classification**](https://github.com/kalyankarthik89/-lung-cancer-classification) | Hybrid CNN–Transformer with CBAM & Optuna tuning | PyTorch, Deep Learning |
+| [**Salesforce Developer Portfolio**](https://github.com/kalyankarthik89/portfolio) | Custom portfolio showcasing CRM apps & credentials | Salesforce, TypeScript |
+| [**Fake News Prediction ML**](https://github.com/kalyankarthik89/fake-news-prediction-ml) | NLP classification pipeline with TF-IDF & Logistic Regression | Python, Scikit-learn |
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalyankarthik89&theme=tokyonight&hide_border=true" alt="Kalyan's GitHub contribution streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kalyankarthik89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankarthik89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-## 🤝 Let’s Connect
+<br />
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=kalyankarthik89&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kalyandukka">
+    <img src="https://img.shields.io/badge/LinkedIn-Kalyan%20Dukka-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dukkakalyankarthik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://github.com/kalyankarthik89">
-    <img src="https://img.shields.io/badge/GitHub-kalyankarthik89-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/kalyandukka/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kalyan%20Karthik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:kalyankarthik875@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kalyan" />
+    <img src="https://img.shields.io/badge/GitHub-kalyankarthik89-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <i>"With great power comes great responsibility." — Spider-Man</i>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:4F46E5&height=100&section=footer" alt="Footer Wave" />
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=120&section=footer" alt="Wave footer" />
